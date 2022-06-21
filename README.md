@@ -24,12 +24,6 @@ Currently working with PHP and Angular, but I love learn new thing in programmin
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlaksono&layout=compact" height=180 />
 </p>
 
-### Let's connect!
-<p>
-    <a href="www.linkedin.com/in/edwin-yordan-laksono" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://twitter.com/edwinfuckingyor" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-</p>
-
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
